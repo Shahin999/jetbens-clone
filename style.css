@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.nav-image {
+  width: 70px;
+  height: 60px;
+}
+.img-div {
+  /* background-color: black; */
+  margin-left: 20px;
+}
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  border: 1px;
+  background-color: rgb(59, 58, 58);
+}
+.container {
+  display: flex;
+  align-items: center;
+  color:rgba(195, 198, 196, 0.966);
+}
+svg {
+  width: 30px;
+  height: 20px;
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+  gap: 15px;
+  margin-right: 10px;
+
+  
+  color:rgba(195, 198, 196, 0.966);
+}
+/* section 1 */
+.container1 {
+  display: flex;
+  background-image: url(/image/bgLicanseVault.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 20px;
+}
+.main {
+  flex: 1;
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+h4 {
+  font-size: 35px;
+  margin-bottom: 80px;
+}
+button {
+  font-size: 28;
+  padding: 10px 20px;
+  border-radius: 17px;
+  margin-bottom: 50px;
+  border: none;
+}
+.main1 {
+  display: flex;
+
+  text-align: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.main1-img {
+  width: 60px;
+  height: 40px;
+}
+.top-img {
+  width: 90px;
+  height: 80px;
+  margin-bottom: 30px;
+}
+.main1-p{
+   font-size:18px;
+   margin-bottom:30px;
+}
+p{
+   font-size: 18px;
+   margin-top: 10px;
+}
+.main2-p{
+  font
+}
